@@ -10,4 +10,4 @@ There has already 2 years passed by while [Binary.com-is-Rebranding-to-Deriv.com
 
 ---
 
-<span style='color:RoyalBlue'>**Powered by - Copyright® Intellectual Property Rights of <img src='www/scb_logo.jpg' width='64'>[Sςιβrοκεrs Trαdιηg®️](http://www.scibrokes.com)個人の経営企業**</span>
+<span style='color:RoyalBlue'>**Powered by - Copyright® Intellectual Property Rights of [<img src="www/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com) 個人の経営企業**</span>
