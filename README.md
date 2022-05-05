@@ -1,6 +1,12 @@
-# binary.com-interview-question-data
+# binary.com - Interview Question Data
 
-store the data of <https://github.com/englianhu/binary.com-interview-question>
+---
+
+[<img src='www/RStudioCloud.png' height='20'>](https://rstudio.cloud) [<img src='www/RStudioCom2.png' height='20'>](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](www/shiny-badge.svg)](https://www.shinyapps.io)
+
+<br>
+
+Store the dataset for <https://github.com/englianhu/binary.com-interview-question>
 
 <img src='www/deriv.jpg' width='260'>
 
@@ -10,4 +16,5 @@ There has already 2 years passed by while [Binary.com-is-Rebranding-to-Deriv.com
 
 ---
 
-<span style='color:RoyalBlue'>**Powered by - Copyright® Intellectual Property Rights of [<img src="www/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com) 個人の経営企業**</span>
+[<img src="www/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="www/Scibrokes.png" width="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
