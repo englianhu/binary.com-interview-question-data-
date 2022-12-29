@@ -1,4 +1,7 @@
-<img src='文艺坊图库/世博量化.png' height='100'> <img src='文艺坊图库/deriv.jpg' height='100'>
+
+<img src='文艺坊图库/世博量化.png' height='100'> <img src='文艺坊图库/大秦赋 - 北京大学.png' height='100'>
+
+<img src='文艺坊图库/deriv.jpg' width='240'>
 
 # 「数据仓库」二元期权（binary.com）<span style='color:#DE5D83; background-color:black;'>**量化分析员/量化交易员**面试题</span>
 
