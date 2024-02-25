@@ -3,7 +3,7 @@
 
 <img src='诸子百家考工记/deriv.png' width='240'>
 
-# 「数据仓库」二元期权（binary.com）<span style='color:#DE5D83; background-color:black;'>**量化分析员/量化交易员**面试题</span>
+# 「数据仓库」次元期权（binary.com）<span style='color:#DE5D83; background-color:black;'>**量化分析员/量化交易员**面试题</span>
 
 ---
 
@@ -35,7 +35,9 @@
 - [Deriv.com和Binary.com加入金融委员会](https://caifuhao.eastmoney.com/news/20200609155259637111910)
 - 科研项目中所使用的汇价原始数据，皆由FXCM官网下载，储存至[猫城：scibrokes/real-time-fxcm](https://github.com/scibrokes/real-time-fxcm)回测科研统计建模用途。
 
+<br><br>
+
 ---
 
-[<img src="诸子百家考工记/Scibrokes.png" height="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src="诸子百家考工记/Scibrokes.png" height="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
+[<img src='诸子百家考工记/世博量化.png' height='14'/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src='诸子百家考工记/世博量化.png' height='14'/> 世博量化®](http://www.scibrokes.com)企业知识产权®及版权®所有，盗版必究。**</span>
